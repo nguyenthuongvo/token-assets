@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/thuongvokg/faea221d-6aa2-47c7-b384-17d4858529d6/f507c9fd-ddb4-45a2-91c2-566f6c312ffd/_apis/work/boardbadge/af757241-7909-43b3-9fe1-5fafba888e89)](https://dev.azure.com/thuongvokg/faea221d-6aa2-47c7-b384-17d4858529d6/_boards/board/t/f507c9fd-ddb4-45a2-91c2-566f6c312ffd/Microsoft.RequirementCategory)
 # KardiaChain Token Assets
 This repository contains information about all the verified token on Aris Mainnet of KardiaChain Network.
 All the unverified tokens will be marked as "unverified token". The verified tokens' logo and information will be displayed on the Token page, Search box, Transfers section and other places on the KardiaChain Network Explorer so users can easily determinate the trusted projects.
