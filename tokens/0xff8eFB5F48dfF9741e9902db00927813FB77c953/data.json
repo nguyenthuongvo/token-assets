@@ -1,0 +1,14 @@
+{
+    "contract": "0xff8eFB5F48dfF9741e9902db00927813FB77c953",
+    "type": "KRC-721",
+    "name": "LiveTrade Standard Membership NFT",
+    "symbol": "LTDStandard",
+    "decimals": 0,
+    "description": "A membership NFT in LiveTrade's ecosystem that entitles holders to numerous exclusive privileges.",
+    "website": "https://ltd.livetrade.io",
+    "github": "",
+    "telegram": "https://t.me/LiveTradeLTD",
+    "medium": "https://medium.com/livetrade-exchange-brokerage",
+    "twitter": "https://twitter.com/LiveTrade_io",
+    "facebook": "https://www.facebook.com/livetrade.io"
+}

@@ -1,0 +1,14 @@
+{
+    "contract": "0x16209D5ea942B1FC098Bc631f74433d8CD246AA4",
+    "type": "KRC-721",
+    "name": "LiveTrade Gold Membership NFT ",
+    "symbol": "LTDGold",
+    "decimals": 0,
+    "description": "A membership NFT in LiveTrade's ecosystem that entitles holders to numerous exclusive privileges.",
+    "website": "https://ltd.livetrade.io/",
+    "github": "",
+    "telegram": "https://t.me/LiveTradeLTD",
+    "medium": "https://medium.com/livetrade-exchange-brokerage",
+    "twitter": "https://twitter.com/LiveTrade_io",
+    "facebook": "https://www.facebook.com/livetrade.io"
+}
